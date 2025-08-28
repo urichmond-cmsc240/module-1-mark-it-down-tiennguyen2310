@@ -6,8 +6,11 @@
 
 *Pronouns: he/him | Class of 2028 - Computer Science & Mathematical Economics*
 
-**Hobbies**
+---
+
+**Hobbies:**
 - Gym
+- Long Run *(I just conquered my first road full marathon this summer!)*
 - Music - Piano, Guitar, Drumset
 - Beach Volleyball 🏐
 - Coffee/Tea
