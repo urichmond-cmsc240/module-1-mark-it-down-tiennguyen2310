@@ -16,3 +16,7 @@
 - Coffee/Tea
 
 **Favourite Songs**: [comethru](https://www.youtube.com/watch?v=jO2viLEW-1A), [Yellow](https://www.youtube.com/watch?v=yKNxeF4KMsY), [Lighters](https://www.youtube.com/watch?v=YWt4wmZ_EMI)
+
+**Favourite Movie**:
+
+[![Bohemina Rhapsody Movie](src\MV5BMTA2NDc3Njg5NDVeQTJeQWpwZ15BbWU4MDc1NDcxNTUz._V1_.jpg)](https://www.imdb.com/title/tt1727824/)
