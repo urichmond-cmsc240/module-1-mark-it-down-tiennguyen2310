@@ -19,4 +19,4 @@
 
 **Favourite Movie**:
 
-[![Bohemina Rhapsody Movie](src\MV5BMTA2NDc3Njg5NDVeQTJeQWpwZ15BbWU4MDc1NDcxNTUz._V1_.jpg)](https://www.imdb.com/title/tt1727824/)
+[![Bohemina Rhapsody Movie](src/MV5BMTA2NDc3Njg5NDVeQTJeQWpwZ15BbWU4MDc1NDcxNTUz._V1_.jpg)](https://www.imdb.com/title/tt1727824/)
