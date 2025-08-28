@@ -1,4 +1,12 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/BpXStGJy)
-[REPLACE ME!] 
+# Tien Nguyen
+**Eid: tnguyenchu | Github Username: tiennguyen2310**
 
-Add your profile details here
+*Pronouns: he/him | Class of 2028 - Computer Science & Mathematical Economics*
+
+**Hobbies**
+- Gym
+- Music - Piano, Guitar, Drumset
+- Beach Volleyball 🏐
+- Coffee/Tea
+
+**Favourite Songs**: [comethru](https://www.youtube.com/watch?v=jO2viLEW-1A), [Yellow](https://www.youtube.com/watch?v=yKNxeF4KMsY), [Lighters](https://www.youtube.com/watch?v=YWt4wmZ_EMI)
